@@ -7,19 +7,19 @@ This will preform the fourier transform and display the results to an array of L
 
 We will use a python script to communicate over ethernet with the Arduino to send packets of the transform
 
-We will use these parts
-
+Parts:
 Ethernet Module (W5500) - https://www.amazon.com/gp/product/B07MYY7QW2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=misperry-20&creative=9325&linkCode=as2&creativeASIN=B07MYY7QW2&linkId=79ebbc9ffcb89f3e8ffc369f0427b16d
 Led strips or matrix 
+
+-----------------------------------------
 
 If we get the base working in time we will add a photoresitor camera and act as a background 
 https://petapixel.com/2019/05/20/i-built-a-kilopixel-camera-that-uses-a-single-photoresistor-for-portraits/
 
-Parts
-
+Parts:
 Photoresitor 
 Motor
 Disk
-Possibly and anaolg shift register
+Possibly an anaolg shift register
 
 
