@@ -1,14 +1,15 @@
 # ECE484_Final_Project
 
-Members - Rob Lytton, Alyssa Winn, John Dahlquist, Teddy Lea
+Members - Rob Lytton, Alyssa Winn, John Dahlquist, and Teddy Lea
 
 Our plan is to make a spectrum analyzer. 
 This will preform the fourier transform and display the results to an array of LEDs.
 
-We will use a python script to communicate over ethernet with the Arduino to send packets of the transform
+We will use a python script to communicate over ethernet with the Arduino to send packets of the transform.
 
 Parts:
 Ethernet Module (W5500) - https://www.amazon.com/gp/product/B07MYY7QW2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=misperry-20&creative=9325&linkCode=as2&creativeASIN=B07MYY7QW2&linkId=79ebbc9ffcb89f3e8ffc369f0427b16d
+
 Led strips or matrix 
 
 -----------------------------------------
