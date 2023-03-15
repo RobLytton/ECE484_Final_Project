@@ -9,6 +9,8 @@ Something similar to this project:
 https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
 ![image](https://user-images.githubusercontent.com/95442814/225405335-9c833da3-c541-4728-874f-bafeebf9d219.png)
 
+![image](https://user-images.githubusercontent.com/95442814/225405623-d3ffba57-ff7c-4a81-aaff-b2ea86bff315.png)
+
 
 
 We will use a python script to communicate over ethernet with the Arduino to send packets of the transform.
