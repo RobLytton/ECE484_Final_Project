@@ -5,6 +5,12 @@ Members - Rob Lytton, Alyssa Winn, John Dahlquist, and Teddy Lea
 Our plan is to make a spectrum analyzer. 
 This will preform the fourier transform and display the results to an array of LEDs.
 
+Something similar to this project:
+https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
+![image](https://user-images.githubusercontent.com/95442814/225405335-9c833da3-c541-4728-874f-bafeebf9d219.png)
+
+
+
 We will use a python script to communicate over ethernet with the Arduino to send packets of the transform.
 
 Parts:
