@@ -8,11 +8,11 @@ This will preform the fourier transform and display the results to an array of L
 Something similar to this project:
 https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
 <p align="center">
-  <img width="600" height="200" src=(https://user-images.githubusercontent.com/95442814/225405335-9c833da3-c541-4728-874f-bafeebf9d219.png)>
+  <img width="600" height="200" src= https://user-images.githubusercontent.com/95442814/225405335-9c833da3-c541-4728-874f-bafeebf9d219.png>
 </p>
   
 <p align="center">
-  <img width="600" height="200" src= (https://user-images.githubusercontent.com/95442814/225405623-d3ffba57-ff7c-4a81-aaff-b2ea86bff315.png)>
+  <img width="600" height="200" src= https://user-images.githubusercontent.com/95442814/225405623-d3ffba57-ff7c-4a81-aaff-b2ea86bff315.png>
 </p>
 
 
