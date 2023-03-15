@@ -28,7 +28,7 @@ If we get the base working in time we will add a photoresitor camera and act as 
 https://petapixel.com/2019/05/20/i-built-a-kilopixel-camera-that-uses-a-single-photoresistor-for-portraits/
 
 This kind of idea where the synthesizer is on top on a picture:
-<img align="left" width="600" height="200" src= ![image](https://user-images.githubusercontent.com/95442814/225406496-231b97b7-3ce5-47a5-bd06-ada7c2e406a0.png)>
+<img align="left" width="600" height="200" src= https://user-images.githubusercontent.com/95442814/225406496-231b97b7-3ce5-47a5-bd06-ada7c2e406a0.png>
 
 
 Parts:
