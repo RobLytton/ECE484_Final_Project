@@ -17,6 +17,7 @@ https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
 We will use a python script to communicate over ethernet with the Arduino to send packets of the transform.
 
 Parts:
+
 Ethernet Module (W5500) - https://www.amazon.com/gp/product/B07MYY7QW2/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=misperry-20&creative=9325&linkCode=as2&creativeASIN=B07MYY7QW2&linkId=79ebbc9ffcb89f3e8ffc369f0427b16d
 
 Led strips or matrix 
@@ -31,6 +32,7 @@ This kind of idea where the synthesizer is on top on a picture:
 
 
 Parts:
+
 Photoresitor 
 Motor
 Disk
