@@ -3,7 +3,7 @@
 Members - Rob Lytton, Alyssa Winn, John Dahlquist, and Teddy Lea
 
 Our plan is to make a spectrum analyzer. 
-This will preform the fourier transform and display the results to an array of LEDs.
+This will preform the fourier transform and display the results to an array of LEDs.  We are planning for these LEDs to be multicolored from one end of the spectrum to the other to represent the different frequencies.
 
 Something similar to this project:
 https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
@@ -31,7 +31,7 @@ OR LED Matrix (Adafruit): (Square, 607):
 
 -----------------------------------------
 
-If we get the base working in time we will add a photoresitor camera and act as a background 
+If we get the base working in time we will add a photoresitor camera and act as a background.  The idea behind this one is that we would have a the scanned picture behind the spectrum analyzer showing both the analysis going on and the image behind it. 
 https://petapixel.com/2019/05/20/i-built-a-kilopixel-camera-that-uses-a-single-photoresistor-for-portraits/
 
 This kind of idea where the synthesizer is on top on a picture:
