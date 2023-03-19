@@ -16,7 +16,7 @@ https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
 </p>
 
 <p align="center">
-  <img width="600" height="300" src= https://https://i.imgur.com/GPvFUbU.jpg>
+  <img width="600" height="300" src= https://https://i.imgur.com/GPvFUbU.jpg](https://i.imgur.com/GPvFUbU.jpg>
 </p>
 
 
