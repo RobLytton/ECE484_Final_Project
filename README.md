@@ -54,13 +54,12 @@ Motor
 Disk
 Possibly an anaolg shift register
 
-Link to our planning sheet:
-https://docs.google.com/spreadsheets/d/1ziDX36n272tjUZuWf0g_6wUvSxBMxqEIyeiouTYo8yE/edit#gid=1115838130
-
 -----------------------------------------
 
-Inital Gantt Chart:
+Gantt Chart Link:
+https://docs.google.com/spreadsheets/d/1ziDX36n272tjUZuWf0g_6wUvSxBMxqEIyeiouTYo8yE/edit#gid=1115838130
 
+Initial:
 <p align="center">
    <img src= https://user-images.githubusercontent.com/95442814/226186899-f18150a0-e218-450a-abfc-f4ce78205d88.png>
 </p>
