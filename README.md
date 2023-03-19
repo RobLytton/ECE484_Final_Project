@@ -53,4 +53,6 @@ Motor
 Disk
 Possibly an anaolg shift register
 
+link to planning sheet
+https://docs.google.com/spreadsheets/d/1ziDX36n272tjUZuWf0g_6wUvSxBMxqEIyeiouTYo8yE/edit#gid=1115838130
 
