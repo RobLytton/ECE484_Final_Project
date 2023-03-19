@@ -57,7 +57,7 @@ Possibly an anaolg shift register
 -----------------------------------------
 
 Gantt Chart Link:
-[https://docs.google.com/spreadsheets/d/1ziDX36n272tjUZuWf0g_6wUvSxBMxqEIyeiouTYo8yE/edit#gid=1115838130]
+https://docs.google.com/spreadsheets/d/1ziDX36n272tjUZuWf0g_6wUvSxBMxqEIyeiouTYo8yE/edit?usp=sharing
 
 Initial:
 <p align="center">
