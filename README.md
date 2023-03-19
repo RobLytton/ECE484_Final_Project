@@ -59,5 +59,5 @@ https://docs.google.com/spreadsheets/d/1ziDX36n272tjUZuWf0g_6wUvSxBMxqEIyeiouTYo
 
 Inital Gantt Chart:
 <p align="center">
-  ![image](https://user-images.githubusercontent.com/95442814/226186899-f18150a0-e218-450a-abfc-f4ce78205d88.png)
+   <img width="600" height="200" src= https://user-images.githubusercontent.com/95442814/226186899-f18150a0-e218-450a-abfc-f4ce78205d88.png>
 </p>
