@@ -14,11 +14,10 @@ https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
 <p align="center">
   <img width="600" height="300" src= https://user-images.githubusercontent.com/95442814/225405623-d3ffba57-ff7c-4a81-aaff-b2ea86bff315.png>
 </p>
-<p align="center">
-  <img width="600" height="300" src= https://user-images.githubusercontent.com/95442814/225405623-d3ffba57-ff7c-4a81-aaff-b2ea86bff315.png>
-</p>
 
 
+
+![image_50348801](https://user-images.githubusercontent.com/92745408/226147521-e95f23dd-1a15-4b05-ae98-a41fe101e7a7.JPG)
 
 
 
