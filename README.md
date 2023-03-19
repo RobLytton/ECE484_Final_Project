@@ -16,10 +16,9 @@ https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
 </p>
 
 
-
-![image_50348801](https://user-images.githubusercontent.com/92745408/226147521-e95f23dd-1a15-4b05-ae98-a41fe101e7a7.JPG)
-
-
+<p align="center">
+  ![image_50348801](https://user-images.githubusercontent.com/92745408/226147521-e95f23dd-1a15-4b05-ae98-a41fe101e7a7.JPG)
+</p>
 
 
 
@@ -56,3 +55,9 @@ Possibly an anaolg shift register
 Link to our planning sheet:
 https://docs.google.com/spreadsheets/d/1ziDX36n272tjUZuWf0g_6wUvSxBMxqEIyeiouTYo8yE/edit#gid=1115838130
 
+-----------------------------------------
+
+Inital Gantt Chart:
+<p align="center">
+  ![image](https://user-images.githubusercontent.com/95442814/226186899-f18150a0-e218-450a-abfc-f4ce78205d88.png)
+</p>
