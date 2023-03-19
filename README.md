@@ -15,6 +15,10 @@ https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
   <img width="600" height="300" src= https://user-images.githubusercontent.com/95442814/225405623-d3ffba57-ff7c-4a81-aaff-b2ea86bff315.png>
 </p>
 
+<p align="center">
+  <img width="600" height="300" src= https://https://i.imgur.com/GPvFUbU.jpg>
+</p>
+
 
 
 We will use a python script to communicate over ethernet with the Arduino to send packets of the transform.
