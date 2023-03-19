@@ -7,6 +7,7 @@ This will preform the fourier transform and display the results to an array of L
 
 Something similar to this project:
 https://projecthub.arduino.cc/shajeeb/924af5cb-be01-44d6-888d-200c54188e9b
+
 <p align="center">
   <img width="600" height="400" src= https://user-images.githubusercontent.com/95442814/225405335-9c833da3-c541-4728-874f-bafeebf9d219.png>
 </p>
@@ -22,8 +23,6 @@ Inital Schematic:
 </p>
 
 
-
-
 We will use a python script to communicate over ethernet with the Arduino to send packets of the transform.
 
 Parts:
@@ -37,6 +36,8 @@ OR LED Matrix (Adafruit): (Square, 607):
                            (Rectangle, 420): https://www.adafruit.com/product/420
 
 -----------------------------------------
+
+Extra:
 
 If we get the base working in time we will add a photoresitor camera and act as a background.  The idea behind this one is that we would have a the scanned picture behind the spectrum analyzer showing both the analysis going on and the image behind it. 
 https://petapixel.com/2019/05/20/i-built-a-kilopixel-camera-that-uses-a-single-photoresistor-for-portraits/
@@ -59,6 +60,7 @@ https://docs.google.com/spreadsheets/d/1ziDX36n272tjUZuWf0g_6wUvSxBMxqEIyeiouTYo
 -----------------------------------------
 
 Inital Gantt Chart:
+
 <p align="center">
    <img src= https://user-images.githubusercontent.com/95442814/226186899-f18150a0-e218-450a-abfc-f4ce78205d88.png>
 </p>
