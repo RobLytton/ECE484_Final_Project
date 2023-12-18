@@ -1,6 +1,6 @@
 # ECE484_Final_Project
 
-Members - Rob Lytton, Alyssa Winn, John Dahlquist, and Teddy Lea
+Members - Rob Lytton, Alyssa Winn, and Teddy Lea
 
 Our plan is to make a spectrum analyzer. 
 This will preform the fourier transform and display the results to an array of LEDs.  We are planning for these LEDs to be multicolored from one end of the spectrum to the other to represent the different frequencies.
